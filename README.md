@@ -2,6 +2,8 @@
 
 Una recreación interactiva y fluida de la landing page oficial de **Grand Theft Auto VI**, construida con **Astro**, **Tailwind CSS v4** y animaciones avanzadas mediante **GSAP & ScrollTrigger**.
 
+🔗 **Demo en vivo**: [https://lading-gta-vi.netlify.app/](https://lading-gta-vi.netlify.app/)
+
 > 💡 Proyecto inspirado y aprendido a través de las enseñanzas de **[Midudev](https://midu.dev/)**. Este proyecto continuará expandiéndose con nuevas secciones, tráilers, interactividad y optimizaciones.
 
 ---
