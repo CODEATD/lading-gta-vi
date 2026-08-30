@@ -1,9 +1,29 @@
 ---
-import Layout from "@layouts/Layout.astro"
+import Picture from "astro/components/Picture.astro";
+
+import Layout from "@layouts/Layout.astro";
+import HeroKeyLogo from "@assets/hero-key-logo.webp";
+import HeroKeyBackground from "@assets/hero-key-background.webp";
 ---
 
 <Layout>
-	<section>
-		<h1>Section 1</h1>
-	</section>
+  <section>
+    <picture
+		id="hero-key"
+		class="h-screen scale-125 block overflow-hidden fixed"
+	>
+      <img
+        id="hero-key-logo"
+        src={HeroKeyLogo.src}
+        class="absolute w-full h-full object-cover"
+        alt="Logo"
+      />
+      <img
+        id="hero-key-background"
+        src={HeroKeyBackground.src}
+        class="w-full h-full object-cover"
+        alt="Background"
+      />
+    </picture>
+  </section>
 </Layout>
