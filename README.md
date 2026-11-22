@@ -89,3 +89,7 @@ Desarrollado con dedicación por **CODE ATD**.
 ## 📄 Licencia
 
 Este proyecto fue desarrollado con fines educativos y de aprendizaje. Todos los derechos sobre marcas, logotipos, imágenes y material multimedia pertenecen a **Rockstar Games** y **Take-Two Interactive**.
+
+---
+
+Hecho por [CODE ATD](https://codeatd.dev) siguiendo el directo de [midudev](https://midu.dev/).
